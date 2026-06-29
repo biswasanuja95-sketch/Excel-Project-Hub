@@ -1,0 +1,46 @@
+Project Overview :
+This project is an interactive Microsoft Excel dashboard built to analyze e-commerce sales and customer data. It transforms raw sales data into meaningful business insights using Excel's data analysis and visualization features.
+
+Features :
+Cleaned and organized raw sales data
+Created Pivot Tables for data summarization
+Designed an interactive dashboard with KPIs
+Visualized sales performance using charts
+Analyzed customer ratings and payment methods
+Identified monthly sales trends and product performance
+
+Dashboard KPIs :
+Total Revenue
+Total Orders
+Total Quantity Sold
+Average Customer Rating
+
+Analysis Included :
+Sales by Product
+Sales by Category
+Monthly Sales Trend
+Payment Method Analysis
+Customer Rating Analysis
+
+Tools Used :
+Microsoft Excel
+Pivot Tables
+Pivot Charts
+Excel Formulas
+Data Cleaning
+Data Visualization
+Dashboard Design
+
+Skills Demonstrated :
+Data Cleaning
+Data Analysis
+Business Intelligence
+Dashboard Development
+Data Visualization
+Reporting
+
+Outcome :
+The dashboard provides a clear overview of sales performance and customer behavior, enabling quick business insights and better decision-making.
+
+## Datasate Used ##
+- <a herf="https://github.com/biswasanuja95-sketch/Excel-Project-Hub/blob/main/E-Commerce%20Sales%20%26Customer%20Analysis%20Dashboard.xlsx" >dataset
